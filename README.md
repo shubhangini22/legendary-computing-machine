@@ -1,2 +1,3 @@
 # legendary-computing-machine
-This repository contains all the datasets and models used by me for building machine learning model.
+
+![computing](https://user-images.githubusercontent.com/88343647/172624509-9d10b2d7-9545-4c79-b9dd-ff232cc88eb0.png)
